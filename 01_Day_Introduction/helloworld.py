@@ -1,4 +1,4 @@
-# Introduction
+# Introductio
 # Day 1 - 30DaysOfPython Challenge
 
 print(3 + 2)   # addition(+)
